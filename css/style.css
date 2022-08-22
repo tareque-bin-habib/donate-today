@@ -159,7 +159,6 @@ body {
 .donation-type {
     width: 23%;
     height: 400px;
-    background-color: orange;
     margin-left: 150px;
 
 }
@@ -193,4 +192,37 @@ body {
 
 .third {
     background-color: #FFF4D6;
+}
+
+.half-width {
+    width: 50%;
+    margin-left: 10%;
+}
+
+.half-width img {
+    width: 80%;
+}
+
+.half-width h1 {
+    font-size: 30px;
+}
+
+.contribute-btn {
+    margin-left: 0;
+}
+
+.half-width p {
+    padding-bottom: 10px;
+}
+
+.stay-updated h1 {
+    font-size: 40px;
+    text-align: center;
+}
+
+.feed {
+    width: 23%;
+    height: 400px;
+    background-color: orange;
+    margin-left: 150px;
 }
