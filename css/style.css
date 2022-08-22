@@ -223,6 +223,19 @@ body {
 .feed {
     width: 23%;
     height: 400px;
-    background-color: orange;
     margin-left: 150px;
+}
+
+.feed img {
+    width: 100%;
+    height: 300px;
+}
+
+.feed-con h3 {
+    margin-top: 0;
+}
+
+.feed-con h5 {
+    margin-top: 0;
+    color: tomato;
 }
