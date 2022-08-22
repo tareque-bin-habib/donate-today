@@ -218,6 +218,7 @@ body {
 .stay-updated h1 {
     font-size: 40px;
     text-align: center;
+    font-weight: bolder;
 }
 
 .feed {
@@ -238,4 +239,50 @@ body {
 .feed-con h5 {
     margin-top: 0;
     color: tomato;
+}
+
+.my-update h1 {
+    font-size: 50px;
+    text-align: center;
+}
+
+.my-update p {
+    text-align: center;
+    font-size: 18px;
+    padding-bottom: 40px;
+}
+
+.email {
+    height: 200px;
+    width: 50%;
+    background-color: #FFF4D6;
+    margin-left: 490px;
+    margin-bottom: 50px;
+}
+
+.email input {
+    padding: 15px;
+    width: 30%;
+    font-weight: 900;
+    margin-left: 20%;
+    margin-top: 60px;
+}
+
+footer {
+    background-color: #0B0D17;
+    height: 200px;
+}
+
+footer h3 {
+    text-align: center;
+    color: #fff;
+    font-size: 25px;
+    padding-top: 20px;
+    font-family: 'Oleo Script Swash Caps', cursive;
+
+}
+
+footer p {
+    text-align: center;
+    color: #fff;
 }
