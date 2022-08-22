@@ -68,6 +68,11 @@ body {
     border: 1px solid tomato;
 }
 
+.banner-button:hover {
+    background-color: rgb(196, 59, 35);
+    border: 1px solid rgb(196, 59, 35);
+}
+
 .donate-today-heading {
     margin-bottom: 60px;
 }
@@ -97,6 +102,16 @@ body {
     border-radius: 5px;
     text-align: center;
     margin-left: 150px;
+}
+
+.half-amount:hover {
+    background-color: #FFEEEE;
+    border: 2px solid red;
+    color: red;
+}
+
+.amount h2:hover {
+    color: red;
 }
 
 .amount h2 {
